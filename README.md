@@ -1,2 +1,2 @@
-# text_mining
-Mining Twitter and Wikipedia data
+# Text Mining 
+Mining Twitter and Wikipedia data in Python using the Twitter and Mediawiki APIs, respectively.
